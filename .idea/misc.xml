@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ongho/Downloads/imovie/app/src/main/res/drawable/btn_bg_design.xml" value="0.32037037037037036" />
+        <entry key="..\:/Users/ongho/Downloads/imovie/app/src/main/res/drawable/foreground_design.xml" value="0.32037037037037036" />
+        <entry key="..\:/Users/ongho/Downloads/imovie/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2671875" />
+        <entry key="..\:/Users/ongho/Downloads/imovie/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2671875" />
+        <entry key="..\:/Users/ongho/Downloads/imovie/app/src/main/res/layout/activity_login.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/ongho/Downloads/imovie/app/src/main/res/layout/activity_registration.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/ongho/Downloads/imovie/app/src/main/res/layout/activity_welcome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/drawable/btn_bg_design.xml" value="0.36354166666666665" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.36153846153846153" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/activity_detail_movie.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/activity_login.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/activity_registration.xml" value="0.3388888888888889" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/activity_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/activity_welcome.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/card_item_movie_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ongho/source/imovie/app/src/main/res/layout/movie_recycler_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

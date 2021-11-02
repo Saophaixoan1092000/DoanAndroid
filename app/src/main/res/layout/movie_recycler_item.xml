@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="150dp"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:id="@+id/movie_recycler_item"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackgroundBorderless"
+    android:layout_marginRight="10dp"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="match_parent"
+        android:transitionName="sharedName"
+        android:id="@+id/imageRecyclerMovie"
+        android:scaleType="centerCrop"
+        android:layout_height="200dp">
+
+    </ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/titleRecyclerMovie"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:text="TextView"
+        android:layout_height="wrap_content">
+
+    </TextView>
+</LinearLayout>
