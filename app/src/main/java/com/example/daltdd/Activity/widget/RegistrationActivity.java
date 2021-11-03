@@ -76,9 +76,8 @@ public class RegistrationActivity extends AppCompatActivity {
                         }
                         else{
                             Log.d("", "onComplete: Failed=" + task.getException().getMessage());
-                            Toast.makeText(RegistrationActivity.this,"Đăng nhâp thất bại", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(RegistrationActivity.this,"Đăng ký thất bại", Toast.LENGTH_SHORT).show();
                         }
-
                     }
 
                 });
